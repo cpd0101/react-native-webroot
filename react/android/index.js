@@ -3,11 +3,13 @@
  * @author tanshaohui <tanshaohui@baidu.com>
  * @date 2015-11-28 09:15:52
  * @last-modified-by tanshaohui
- * @last-modified-time 2015-11-28 09:16:16
+ * @last-modified-time 2015-11-28 13:17:01
  */
 
 'use strict';
 
+var data = require('../common/data.js');
+var ui = require('common/view.js');
 var React = require('react-native');
 var {
   Image,

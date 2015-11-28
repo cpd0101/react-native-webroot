@@ -1,9 +1,9 @@
 /**
- * @file index.ios.js
+ * @file index.js
  * @author tanshaohui <tanshaohui@baidu.com>
- * @date 2015-11-27 22:55:33
+ * @date 2015-11-28 09:15:52
  * @last-modified-by tanshaohui
- * @last-modified-time 2015-11-27 22:57:30
+ * @last-modified-time 2015-11-28 09:16:16
  */
 
 'use strict';
@@ -113,7 +113,6 @@ var styles = StyleSheet.create({
     height: 81,
   },
   listView: {
-    paddingTop: 20,
     backgroundColor: '#F5FCFF',
   },
 });

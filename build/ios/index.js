@@ -1,9 +1,9 @@
 /**
- * @file index.ios.js
+ * @file index.js
  * @author tanshaohui <tanshaohui@baidu.com>
- * @date 2015-11-27 22:55:33
+ * @date 2015-11-28 09:11:54
  * @last-modified-by tanshaohui
- * @last-modified-time 2015-11-27 22:57:30
+ * @last-modified-time 2015-11-28 09:12:23
  */
 
 'use strict';
